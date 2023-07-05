@@ -75,7 +75,7 @@ function checkNodePackageInstalled()
 
 function buildWorkers()
 {
-    local WORKER_CONFIG_LIST=($(find "${PROJECT_DIR_PATH}/cloudflare" -name wrangler.toml -print))
+    local WORKER_CONFIG_LIST=($(find "${PROJECT_DIR_PATH}/cloudflare/workers" -name wrangler.toml -print))
 
     for WORKER_CONFIG in "${WORKER_CONFIG_LIST[@]}"
     do
