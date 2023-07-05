@@ -1,0 +1,12 @@
+####
+# Automation Meta-Data: KV Namespaces
+#
+# This worker relies on the following KV namespaces.
+#
+# KV Name: cfd_users
+# KV Binding: USERS
+# KV Description: This KV is used to hold the list of registered users.
+####
+
+name = "cfd-api-register-user"
+main = "main.js"
