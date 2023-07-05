@@ -5,7 +5,7 @@ _*
 .*
 
 # Ignore specific directories.
-# n/a
+node_modules
 
 # Ignore specific files.
 # n/a
