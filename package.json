@@ -1,0 +1,10 @@
+{
+  "name": "cloudflare-demo",
+  "version": "1.0.0",
+  "description": "A project demonstrating how to build, deploy, and use cloudflare workers and KVs.",
+  "author": "Joey C. DiGiorgio <digiorgiojoey@gmail.com>",
+  "devDependencies": {
+    "esbuild": "0.17.19",
+    "wrangler": "^3.0.0"
+  }
+}
