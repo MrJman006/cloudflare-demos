@@ -1,0 +1,12 @@
+# Ignore files starting with underscores.
+_*
+
+# Ignore files starting with periods.
+.*
+
+# Ignore specific directories.
+# n/a
+
+# Ignore specific files.
+# n/a
+
